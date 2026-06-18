@@ -1,4 +1,7 @@
 # Machine Learning in Neuroimaging
+![Banner](./assets/ml%20in%20neuroimaging.png)
+
+
 ### 🧠 Interdisciplinary School of Neuroscience (IDS) | Mentorship Training Program
 
 Welcome to the official repository for the **Machine Learning in Neuroimaging** course. This program is designed to bridge the gap between raw neurobiological data and predictive analytics, providing a rigorous mathematical and computational foundation for the next generation of neuroscientists.
